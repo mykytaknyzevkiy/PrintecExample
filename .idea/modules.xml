@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrintecExample.iml" filepath="$PROJECT_DIR$/.idea/modules/PrintecExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PrintecExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PrintecExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PrintecExample.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/PrintecExample.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/db/PrintecExample.db.iml" filepath="$PROJECT_DIR$/.idea/modules/db/PrintecExample.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/network/PrintecExample.network.iml" filepath="$PROJECT_DIR$/.idea/modules/network/PrintecExample.network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/repository/PrintecExample.repository.iml" filepath="$PROJECT_DIR$/.idea/modules/repository/PrintecExample.repository.iml" />
+    </modules>
+  </component>
+</project>

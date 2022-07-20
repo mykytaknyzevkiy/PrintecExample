@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrintecExample</string>
+
+    <string name="global_error_no_internet_lable">No network connection</string>
+    <string name="global_error_no_unknown">Unknown error</string>
+    <string name="global_error_reload_btn_label">Try againg</string>
+    <string name="main_screen_list_tickets_header_label">Tickets</string>
+    <string name="main_screen_list_top_news_header_label">Top news</string>
+    <string name="main_screen_list_news_header_label">News</string>
+
+</resources>
